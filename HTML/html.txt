@@ -1,1 +1,2 @@
-Im from HTML folder
+Im from HTML folder.
+Im a txt file.
